@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+deepface
+opencv-python-headless
+scikit-learn
+numpy
+sentence-transformers
+PyJWT
+bcrypt
+pillow
